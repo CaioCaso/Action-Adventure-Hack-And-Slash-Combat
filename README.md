@@ -9,6 +9,10 @@ Watch the video to see how the combat system works:
 An advanced modular combat system built in Unity and C#, designed for action-adventure games with dynamic directional movement and precise state management.
 
 ---
+<p align="center">
+  Made by <a href="https://github.com/CaioCaso"><strong>Caio Caso</strong></a>
+</p>
+
 
 ## 🎮 Key Features
 
